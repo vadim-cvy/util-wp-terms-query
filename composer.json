@@ -1,0 +1,11 @@
+{
+  "name": "cvy/util-wp-terms-query",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\WP\\TermsQuery\\": "src/"
+    }
+  },
+  "require": {
+    "cvy/util-wp-objects-query": "^1"
+  }
+}
